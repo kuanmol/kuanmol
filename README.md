@@ -1,3 +1,3 @@
-This code is simple linked list.
-insert function for inesert data at given postion
-display function to display linked list
+This is Anmol.
+I like coding.
+Currently I learning java.
