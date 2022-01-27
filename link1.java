@@ -11,7 +11,7 @@ class likedlist
             this.next=null;
         }
     }
-    public void insert(int position, int value)
+    public void insert(int position, int value)            //insert in linklist
     {
 		listnode node = new listnode(value);
 
@@ -35,7 +35,7 @@ class likedlist
 			node.next = current;
 		}
     }
-    public void display() 
+    public void display()    
     {
 		listnode current = head;
 		while(current != null) 
@@ -45,7 +45,7 @@ class likedlist
 		}
 		System.out.print("null");
 	}
-    public int length() 
+    public int length()  //length of linklist
     {
 		if(head == null) 
         {
@@ -70,10 +70,10 @@ class likedlist
         sll.head.next=second;
         second.next=third;
         third.next=fourth;
-      //  sll.insert(2,3);
+      //  sll.insert(2,3);       //for insert data at given position in linked list
         sll.display();
         System.out.println();
-        System.out.println(sll.length());
+     //   System.out.println(sll.length());
         
     }
 }
