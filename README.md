@@ -1,5 +1,5 @@
 # 💫 About Me: Hi I am ANMOL KUMAR
-🔭 I’m currently working on Microservice architecture<br>🌱 I’m currently learning Ai<br>💬 Ask me about Devops related thing
+🔭 I’m currently working on Microservice architecture<br>🌱 I’m currently learning Ai<br>💬 Ask me about Devops related things
 
 
 ## 🌐 Socials:
