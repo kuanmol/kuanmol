@@ -1,6 +1,6 @@
 # 💫 Welcome to My GitHub! 👋
 
-<img src="media/tenor.gif" width="500" />
+<img src="media/tenor.gif" width="300" />
 
 ## 🚀 About Me
 
