@@ -1,14 +1,21 @@
 # 💫 Welcome to My GitHub! 👋
 
-<img src="media/tenor.gif" width="300" />
-
-## 🚀 About Me
-
-Hey there! I'm **Anmol Kumar**, a **DevOps Engineer & AI Enthusiast** passionate about **automation, cloud computing, and scalable architectures**.
-
-- 🌱 Exploring **AI, Kubernetes, and DevOps Automation**
-- 💬 Ask me about **DevOps, Kubernetes, Docker, and Cloud**
-- ⚡ Fun Fact: I believe in **Automate Everything!** 🤖
+<table border="0">
+  <tr>
+    <td>
+      <h2>🚀 About Me</h2>
+      <p>Hey there! I'm <b>Anmol Kumar</b>, a <b>DevOps Engineer & AI Enthusiast</b> passionate about <b>automation, cloud computing, and scalable architectures</b>.</p>
+      <ul>
+        <li>🌱 Exploring <b>AI, Kubernetes, and DevOps Automation</b></li>
+        <li>💬 Ask me about <b>DevOps, Kubernetes, Docker, and Cloud</b></li>
+        <li>⚡ Fun Fact: I believe in <b>Automate Everything!</b> 🤖</li>
+      </ul>
+    </td>
+    <td>
+      <img src="media/tenor.gif" width="300"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
