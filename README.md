@@ -1,6 +1,6 @@
 # 💫 Welcome to My GitHub! 👋
 
-![Waifu](media/tensor.gif)
+![Waifu](media/tenor.gif)
 
 ## 🚀 About Me
 
