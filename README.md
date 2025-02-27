@@ -1,6 +1,6 @@
 # 💫 Welcome to My GitHub! 👋
 
-![Waifu](https://media1.tenor.com/m/2z7NVAVjM_YAAAAC/guts-berserk.gif)
+![Waifu](media/tensor.gif)
 
 ## 🚀 About Me
 
